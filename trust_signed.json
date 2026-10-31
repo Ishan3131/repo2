@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "project": "Ishan3131/repo2",
+  "signer": "Ishan3131",
+  "created_at": "2026-11-01T04:45:00Z",
+  "description": "WoT Tier 1 Node: Independent verification feed",
+  "vouches": [
+    "Jyotikesari",
+    "himanshibishnoi"
+  ],
+  "denouncements": [
+    
+  ],
+  "trusted_peers": [
+    "himanshibishnoi/repo4"
+  ],
+  "signature": "sha256:2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7ae"
+}
