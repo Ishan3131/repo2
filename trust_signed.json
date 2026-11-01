@@ -6,11 +6,13 @@
   "description": "WoT Tier 2 Node: Independent verification feed",
   "vouches": [
     "Jyotikesari",
+    "Ishan3131"
   ],
   "denouncements": [
     "himanshibishnoi"
   ],
   "trusted_peers": [
+    "himanshibishnoi/repo1"
   ],
   "signature": "sha256:2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7ae"
 }
